@@ -1,7 +1,10 @@
 # Yujal-search
+For years, the internet has been filtered through endless pages of results, snippets, and ads, forcing you to dig for the information you really want. You asked for a simpler, more direct way to find what you need, and we listened.
+We are thrilled to announce the first generation launch of Yujal, a revolutionary new search experience that cuts through the noise and takes you directly to the source.
+Experience Search the Way It Was Meant to Be
+Yujal is designed for people who value efficiency, context, and a seamless online experience. Our unique approach redefines how you interact with the web:
 
-Discover a search engine designed to take you straight to the brand website you want—no more digging through pages of unrelated results like other search engines. Just type **“Nike”**, hit enter, and *boom*—the official site appears instantly.
+https://king-yujal.github.io/Yujal-search/
 
-If you’d like it to sound more professional, more casual, more sales-driven, or more tech-focused, I can tailor it further!
 
 
